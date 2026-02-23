@@ -24,7 +24,7 @@ sessionAbsent:
   - "[[1-Party/The unnamed party/Borgür.md|Borgür]]"
 ---
 
-![Session 8 Image](images/session_8.jpg)
+![Session 08 Image](images/session08.png)
 
 
 # Roster 

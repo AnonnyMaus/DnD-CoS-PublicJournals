@@ -25,7 +25,7 @@ sessionRoster:
   - "[[1-Party/The unnamed party/Nirthar.md|Nirthar]]"
 ---
 
-![Session 7 Image](images/session_7.jpg)
+![Session 07 Image](images/session07.png)
 
 
 # Roster 

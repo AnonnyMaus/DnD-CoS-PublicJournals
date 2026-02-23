@@ -20,7 +20,7 @@ tags:
 obsidianUIMode: preview
 ---
 
-![Session 11 Image](images/session_11.jpg)
+![Session 11 Image](images/session11.png)
 
 
 # Roster 

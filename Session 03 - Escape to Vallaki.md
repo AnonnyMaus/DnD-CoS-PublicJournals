@@ -22,7 +22,7 @@ sessionRoster:
   - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
 ---
 
-![Session 3 Image](images/session_3.jpg)
+![Session 03 Image](images/session03.png)
 
 
 # Roster 
