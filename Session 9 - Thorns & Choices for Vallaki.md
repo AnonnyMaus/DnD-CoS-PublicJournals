@@ -20,6 +20,9 @@ tags:
 obsidianUIMode: preview
 ---
 
+![Session 9 Image](images/session_9.jpg)
+
+
 # Roster 
 
 %% Keep track of who turned up. %%

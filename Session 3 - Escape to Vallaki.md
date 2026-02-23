@@ -22,6 +22,9 @@ sessionRoster:
   - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
 ---
 
+![Session 3 Image](images/session_3.jpg)
+
+
 # Roster 
 
 %% Keep track of who turned up. %%

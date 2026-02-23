@@ -20,6 +20,9 @@ tags:
 obsidianUIMode: preview
 ---
 
+![Session 14 Image](images/session_14.jpg)
+
+
 # Roster 
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

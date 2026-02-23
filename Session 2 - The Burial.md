@@ -25,6 +25,9 @@ sessionRoster:
   - "[[1-Party/The unnamed party/Borgür.md|Borgür]]"
 ---
 
+![Session 2 Image](images/session_2.jpg)
+
+
 # Roster 
 
 %% Keep track of who turned up. %%

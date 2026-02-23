@@ -25,6 +25,9 @@ sessionRoster:
   - "[[1-Party/The unnamed party/Nirthar.md|Nirthar]]"
 ---
 
+![Session 7 Image](images/session_7.jpg)
+
+
 # Roster 
 
 %% Keep track of who turned up. %%
