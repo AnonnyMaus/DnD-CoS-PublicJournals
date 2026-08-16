@@ -87,4 +87,3 @@ Despite the warnings regarding the portal's lethal, timeless nature, the party's
 *   What are the negative consequences of Tildrak unknowingly accepting help from dark entities he believes to be Tyr?
 *   How will the Martikovs react now that the eternal gemstone has been recovered?
 
-

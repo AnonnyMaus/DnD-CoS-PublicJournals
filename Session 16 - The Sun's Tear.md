@@ -65,6 +65,11 @@ The door slammed shut. The locks clicked. As panic set in, a holographic project
 *   **Status Effects:** Vinarius suffers a -1 Wisdom modifier until his next long rest.
 *   **Cliffhanger:** The party is currently trapped inside Strahd's magical, autonomous getaway carriage. Strahd (via hologram) has requested their assistance in planning his wedding to Ireena.
 
+## Open Questions
+*   How will the party react to Strahd's bizarre wedding requests while locked in his carriage?
+*   Where is the carriage taking them?
+*   Will they still be able to cure Little Jasper of his lycanthropy in time?
+
 ## Item Unlocked: Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  
 
@@ -82,8 +87,3 @@ If you have the Turn Undead or the Turn the Unholy feature, you can expend 3 cha
 
 **Sunlight**
 As an action, you can expend 5 charges while presenting the holy symbol to make it shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight and lasts for 10 minutes or until you end the effect (no action required).
-
-## Open Questions
-*   How will the party react to Strahd's bizarre wedding requests while locked in his carriage?
-*   Where is the carriage taking them? 
-*   Will they still be able to cure Little Jasper of his lycanthropy in time?
