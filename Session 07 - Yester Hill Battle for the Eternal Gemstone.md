@@ -19,10 +19,10 @@ tags:
   - "#Category/Journal"
 obsidianUIMode: preview
 sessionRoster:
-  - "[[1-Party/The unnamed party/Borgür.md|Borgür]]"
-  - "[[1-Party/The unnamed party/Vinarius Vinebloom.md|Vinarius Vinebloom]]"
-  - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
-  - "[[1-Party/The unnamed party/Nirthar.md|Nirthar]]"
+  - "Borgür"
+  - "Vinarius Vinebloom"
+  - "Tildrak Pagrax"
+  - "Nirthar"
 ---
 
 ![Session 07 Image](images/session07.png)

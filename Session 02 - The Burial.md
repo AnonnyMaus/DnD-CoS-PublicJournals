@@ -19,10 +19,10 @@ tags:
   - "#Category/Journal"
 obsidianUIMode: preview
 sessionRoster:
-  - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
-  - "[[1-Party/The unnamed party/Vinarius Vinebloom.md|Vinarius Vinebloom]]"
-  - "[[1-Party/The unnamed party/Nirthar.md|Nirthar]]"
-  - "[[1-Party/The unnamed party/Borgür.md|Borgür]]"
+  - "Tildrak Pagrax"
+  - "Vinarius Vinebloom"
+  - "Nirthar"
+  - "Borgür"
 ---
 
 ![Session 02 Image](images/session02.png)
@@ -45,18 +45,18 @@ sessionRoster:
 The party explores the gloomy Village of Barovia, preparing to lay the Burgomaster to rest while uncovering the town's miseries and making a sacred vow.
 
 ## The Narrative
-Having escaped the horrors of the Durst House and received a dark invitation from Strahd, the newly-formed party found themselves in the gloomy, mist-oppressed streets of the Village of Barovia. Desperate for shelter and supplies, they visited **Bildrath's Mercantile**. Unfortunately, the proprietor, [[bildrath-cantemir-cos|Bildrath]], charged extortionate prices. Any thought of intimidation was quickly quelled by the presence of his hulking, silent nephew [[parriwimple-cos|Parriwimple]]. Left with little choice, the party wasted most of their gold on a simple tent.
+Having escaped the horrors of the Durst House and received a dark invitation from Strahd, the newly-formed party found themselves in the gloomy, mist-oppressed streets of the Village of Barovia. Desperate for shelter and supplies, they visited **Bildrath's Mercantile**. Unfortunately, the proprietor, Bildrath, charged extortionate prices. Any thought of intimidation was quickly quelled by the presence of his hulking, silent nephew Parriwimple. Left with little choice, the party wasted most of their gold on a simple tent.
 
-Exploring further, they were drawn to a townhouse by the sound of mournful sobbing. Inside, they found [[mad-mary-cos|Mad Mary]], weeping hysterically over her runaway daughter, [[gertruda-cos|Gertruda]]. Mary clutched a malformed, creepy doll. The party listened to her grief but could offer no immediate help, leaving the situation unresolved.
+Exploring further, they were drawn to a townhouse by the sound of mournful sobbing. Inside, they found Mad Mary, weeping hysterically over her runaway daughter, Gertruda. Mary clutched a malformed, creepy doll. The party listened to her grief but could offer no immediate help, leaving the situation unresolved.
 
 
-Seeking a proper place to rest, the party made their way to the local pub, the Blood of the Vine tavern. There, they met [[ismark-kolyanovich-cos|Ismark]], who was in a sorry, drunken state. Desperate and bitterly complaining about his mocking nickname, "Ismark the Lesser," he explained that the recent stress of his father's (the Burgomaster) death had crushed him, dropping all the pressure of leadership squarely onto his shoulders. Making matters worse, his family's mansion was facing an existential threat, besieged every evening by Strahd's ravenous beasts. Seeing a glimmer of hope in the newcomers, Ismark managed to convince the party to escort his sister, [[ireena-kolyana-cos|Ireena Kolyana]], to a holy place in the safer, walled town of Vallaki. 
+Seeking a proper place to rest, the party made their way to the local pub, the Blood of the Vine tavern. There, they met Ismark, who was in a sorry, drunken state. Desperate and bitterly complaining about his mocking nickname, "Ismark the Lesser," he explained that the recent stress of his father's (the Burgomaster) death had crushed him, dropping all the pressure of leadership squarely onto his shoulders. Making matters worse, his family's mansion was facing an existential threat, besieged every evening by Strahd's ravenous beasts. Seeing a glimmer of hope in the newcomers, Ismark managed to convince the party to escort his sister, Ireena Kolyana, to a holy place in the safer, walled town of Vallaki.
 
-The party agreed to the escort quest, but upon meeting Ireena, she firmly refused to leave the village until her late father, the Burgomaster Kolyan Indirovich, was properly laid to rest. Agreeing to help with the burial, the party traveled to the local church alongside Ismark and Ireena. Upon meeting [[donavich-cos|Father Donavich]], the party heard incessant screaming coming from the church's undercroft. Investigating the noise, they discovered [[doru-cos|Doru]], the priest's son who had been turned into a vampire spawn. The party managed to briefly turn and subdue him. In a moment of clarity, Doru recounted his tragic fall—how he had marched on Castle Ravenloft alongside a mysterious wizard, only to be slaughtered and spawned by Strahd. Seeing that Donavich could not bring himself to kill his own son, the party chose to leave them be.
+The party agreed to the escort quest, but upon meeting Ireena, she firmly refused to leave the village until her late father, the Burgomaster Kolyan Indirovich, was properly laid to rest. Agreeing to help with the burial, the party traveled to the local church alongside Ismark and Ireena. Upon meeting Father Donavich, the party heard incessant screaming coming from the church's undercroft. Investigating the noise, they discovered Doru, the priest's son who had been turned into a vampire spawn. The party managed to briefly turn and subdue him. In a moment of clarity, Doru recounted his tragic fall—how he had marched on Castle Ravenloft alongside a mysterious wizard, only to be slaughtered and spawned by Strahd. Seeing that Donavich could not bring himself to kill his own son, the party chose to leave them be.
 
 At dawn, the party helped Ismark and Ireena bury their father in the cemetery. The funeral was somber, and the party felt the mists watching them. It was here the party made a **sacred promise**: they swore to escort Ireena safely out of the village to the town of Vallaki. 
 
-Before leaving the village, they encountered an old woman pushing a cart—[[morgantha-cos|Morgantha]]. She was selling "Dream Pastries". Detecting her evil nature and suspecting her of kidnapping children, the party immediately engaged her in combat. The battle was fierce, but the Night Hag proved incredibly slippery and managed to escape before they could finish her off. 
+Before leaving the village, they encountered an old woman pushing a cart—Morgantha. She was selling "Dream Pastries". Detecting her evil nature and suspecting her of kidnapping children, the party immediately engaged her in combat. The battle was fierce, but the Night Hag proved incredibly slippery and managed to escape before they could finish her off.
 
 
 ## The Facts

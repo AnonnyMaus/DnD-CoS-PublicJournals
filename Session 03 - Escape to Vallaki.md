@@ -19,7 +19,7 @@ tags:
   - "#Category/Journal"
 obsidianUIMode: preview
 sessionRoster:
-  - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
+  - "Tildrak Pagrax"
 ---
 
 ![Session 03 Image](images/session03.png)

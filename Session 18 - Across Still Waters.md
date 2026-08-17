@@ -11,7 +11,7 @@ sessionDate:
 players: 3
 Status:
   - ⏳
-OneLiner: The party escapes Ravenloft, divides the work of preparing for Strahd's wedding, recruits a reluctant Martikov, and carries the Sun's Tear into the timeless realm of the Huntress.
+OneLiner: The party escapes Ravenloft, divides the work of preparing for Strahd's wedding, recruits Davian Martikov, and carries the Sun's Tear into the timeless realm of the Huntress.
 timelines:
   - journal
 tags:
@@ -31,7 +31,7 @@ draft: false
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
 
-[[Vinarius Vinebloom|Vinarius]], [[Tildrak Pagrax|Tildrak]], and [[Nirthar]]'s players attended. [[Borgür]] remained with the party as a character, but no player voice for Borgür appears in this partial transcript.
+Vinarius, Tildrak, and Nirthar's players attended. Borgür remained with the party as a character, but no player voice for Borgür appears in this partial transcript.
 
 # Session Overview
 
@@ -59,7 +59,7 @@ Cyrus returned with the locked chest and announced that only three minutes of gu
 
 ### The Carriage's Sweet Breath
 
-The party told Diego, the spirit bound to the carriage, to take them to [[Van Richten's Tower]]. The door sealed behind them. Cabinets refused to open, the window would not break, and sweet-smelling purple smoke began to fill the compartment. One by one—despite protests, braced weapons, and attempts to stay beneath the fumes—the adventurers lost consciousness.
+The party told Diego, the spirit bound to the carriage, to take them to Van Richten's Tower. The door sealed behind them. Cabinets refused to open, the window would not break, and sweet-smelling purple smoke began to fill the compartment. One by one—despite protests, braced weapons, and attempts to stay beneath the fumes—the adventurers lost consciousness.
 
 They awoke after an unknown span of time on a cold, mist-covered shore of Lake Baratok. Dawn was only beginning to lighten the sky. The carriage had vanished, and Van Richten's tower stood on the far side of the silent lake. Whatever Strahd's transport had done to them, the enforced sleep had at least granted the party a long rest.
 
@@ -73,7 +73,7 @@ The danger had not gone. Bread cast onto the lake was abruptly sucked beneath th
 
 ### Back to the Hunters
 
-The leaning tower remained standing through magic and stubbornness. When the party reached its front door, [[Ezmeralda d'Avenir]] answered. Their first question concerned Little Jasper. Ezmeralda reported that the boy was doing well, and the adventurers eagerly announced that they had returned with the Tear of the Sun to save him.
+The leaning tower remained standing through magic and stubbornness. When the party reached its front door, Ezmeralda d'Avenir answered. Their first question concerned Little Jasper. Ezmeralda reported that the boy was doing well, and the adventurers eagerly announced that they had returned with the Tear of the Sun to save him.
 
 Inside, Rudolph van Richten—still referred to in passing by his Rictavio alias—looked up from his books and demanded to know how their confrontation with the revenants had ended. The party offered the condensed truth: they had obtained the Tear, been abducted by a carriage, and ended up before Strahd. Van Richten asked to inspect the relic. Although Vinarius insisted that Jasper's cure came first, Nirthar allowed the hunter to examine it. Van Richten studied the holy symbol with wonder, compared it against his notes, and began to understand how it connected to the documents and clues he had previously shared with them.
 
@@ -83,23 +83,23 @@ The hunters then asked how the party had overcome Vladimir. The adventurers admi
 
 ### Too Many Errands for One Hunter
 
-The conversation turned into a division of labour for the coming wedding. Little Jasper still needed to be returned safely to Krezk. At the same time, someone needed to approach [[Vladimir Horngaard]] and convince the revenant commander to come to Castle Ravenloft, where his hatred and his knights could cause a formidable ruckus during Strahd's wedding.
+The conversation turned into a division of labour for the coming wedding. Little Jasper still needed to be returned safely to Krezk. At the same time, someone needed to approach Vladimir Horngaard and convince the revenant commander to come to Castle Ravenloft, where his hatred and his knights could cause a formidable ruckus during Strahd's wedding.
 
-The party initially attempted to place both burdens on [[Ezmeralda d'Avenir]]. She appeared to agree, but her sarcasm sharpened with every added request until she asked whether they would also require a foot rub afterward. The debate continued until [[Rudolph van Richten]] intervened and imposed a more workable arrangement: Ezmeralda would handle Vladimir, while Van Richten would take responsibility for bringing Little Jasper back to Krezk.
+The party initially attempted to place both burdens on Ezmeralda d'Avenir. She appeared to agree, but her sarcasm sharpened with every added request until she asked whether they would also require a foot rub afterward. The debate continued until Rudolph van Richten intervened and imposed a more workable arrangement: Ezmeralda would handle Vladimir, while Van Richten would take responsibility for bringing Little Jasper back to Krezk.
 
 That left the adventurers with the task that only they and their relic could attempt. They would return to the dark portal beneath Yester Hill and enter the realm of the Huntress. The vision they received there long ago had told them to return only once they possessed the **power of the sun**. With the Tear of the Sun now in their hands, the old warning had become a path forward.
 
-### A Raven Slips the Nest
+### The Old Raven Returns to Yester Hill
 
-The road to Yester Hill first took the party back to the Wizard of Wines winery to catch up with the Martikovs and ask for help. They appealed to **Urwin Martikov** to join them. Urwin resisted. He wanted a quiet life, had already suffered a bitter conflict in Vallaki, and had children to protect and an angry wife who expected him to remain at home.
+The road to Yester Hill first took the party back to the Wizard of Wines winery to catch up with the Martikovs and ask for help. There they appealed to **Davian Martikov**, the winery's elderly patriarch and the wereraven who had first sent them to recover his family's stolen gem from Yester Hill.
 
-The adventurers continued to press him. Eventually Urwin yielded in the least confrontational manner available: he slipped out through the back, promised that he would be home soon, and joined the expedition without inviting another argument. The party now had a wereraven ally accompanying it toward the site where Wintersplinter had once been summoned in Strahd's honour.
+The party persuaded Davian to join the expedition. The old wereraven accompanied them toward the site where Wintersplinter had once been summoned in Strahd's honour. Urwin remained in Vallaki, where his history with the party is still scarred by the bloody jailbreak massacre.
 
 ### Where the Sun Does Not Move
 
-At [[Yester Hill]], the party returned to the dead Gulthias Tree and the portal that had maimed Borgür. The first time they found it, the Huntress had warned them that they would need the power of the sun to survive her place of worship. Borgür had ignored that warning and thrust his hand through the darkness. Within seconds, his hand withered and crumbled to dust, leaving the party with terrible proof that crossing the threshold without the promised radiance was lethal.
+At Yester Hill, the party returned to the dead Gulthias Tree and the portal that had maimed Borgür. The first time they found it, the Huntress had warned them that they would need the power of the sun to survive her place of worship. Borgür had ignored that warning and thrust his hand through the darkness. Within seconds, his hand withered and crumbled to dust, leaving the party with terrible proof that crossing the threshold without the promised radiance was lethal.
 
-Now the party carried the Tear of the Sun. Bearing the promised radiance, the adventurers and Urwin crossed the threshold together.
+Now the party carried the Tear of the Sun. Bearing the promised radiance, the adventurers and Davian crossed the threshold together.
 
 Beyond it lay a cavernous expanse caught in a single, unchanging instant. Nothing stirred. At its centre burned a campfire—one of the only things in the realm that still moved. Beside the flames sat a hooded woman, silent and ominous against a world from which time itself seemed to have withdrawn.
 
@@ -112,8 +112,8 @@ There, before anyone could learn whether the figure was the Huntress, a guardian
 *   **Leaving Ravenloft:** The party recovered all its confiscated equipment and left without breaking guest right. Vinarius hid a flask beneath a grape-marked stone in the courtyard for a future return.
 *   **Across Lake Baratok:** Purple gas inside Strahd's carriage forced the party into a long rest before abandoning them across the lake from Van Richten's tower. Vinarius expended and later burned a boat from his *Robe of Useful Items* while something unseen pursued them beneath the water.
 *   **Jasper Cured and Work Divided:** The Tear of the Sun cured Little Jasper's corrupted lycanthropy. Van Richten agreed to return him to Krezk, while Ezmeralda would try to recruit Vladimir and his revenants to disrupt Strahd's wedding.
-*   **A Reluctant Raven:** At the Wizard of Wines, the party persuaded Urwin Martikov to slip away from his family and join the expedition to Yester Hill.
-*   **The Power of the Sun:** The party recognized the Tear of the Sun as the radiance the Huntress had told them to bring. Together with Urwin, they crossed the portal that had destroyed Borgür's hand in Session 7.
+*   **Davian Recruited:** At the Wizard of Wines, the party persuaded Davian Martikov to join the expedition to Yester Hill. Urwin remained in Vallaki.
+*   **The Power of the Sun:** The party recognized the Tear of the Sun as the radiance the Huntress had told them to bring. Together with Davian, they crossed the portal that had destroyed Borgür's hand in Session 7.
 *   **Cliffhanger:** The party ended inside the motionless realm beneath Yester Hill, facing a burning campfire and the hooded woman seated beside it.
 
 ## Open Questions
@@ -122,7 +122,7 @@ There, before anyone could learn whether the figure was the Huntress, a guardian
 *   What part of Kasimir and Patrina's history was Rahadin deliberately withholding?
 *   Can Ezmeralda convince Vladimir to set aside his opposition and bring the revenants to Strahd's wedding?
 *   Will Van Richten and Little Jasper reach Krezk safely?
-*   How will Danika and the rest of Urwin's family react when they discover that he slipped away with the party?
+*   What role will Davian play in restoring the Huntress, and will the expedition change his plans for opposing Strahd?
 *   Is the hooded woman beside the campfire the Huntress, and why are she and the flame able to move in the frozen realm?
 *   What must the party do to restore the Huntress and break the power Strahd stole from her?
 *   What was moving beneath Lake Baratok, and did burning the boat attract or destroy anything?

@@ -18,11 +18,11 @@ tags:
   - journal
   - "#Category/Journal"
 sessionRoster:
-  - "[[1-Party/The unnamed party/Vinarius Vinebloom.md|Vinarius Vinebloom]]"
-  - "[[1-Party/The unnamed party/Tildrak Pagrax.md|Tildrak Pagrax]]"
-  - "[[1-Party/The unnamed party/Nirthar.md|Nirthar.md]]"
+  - "Vinarius Vinebloom"
+  - "Tildrak Pagrax"
+  - "Nirthar.md"
 sessionAbsent:
-  - "[[1-Party/The unnamed party/Borgür.md|Borgür]]"
+  - "Borgür"
 ---
 
 ![Session 01 Image](images/session01.png)

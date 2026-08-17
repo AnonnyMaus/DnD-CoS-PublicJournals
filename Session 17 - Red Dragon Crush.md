@@ -30,7 +30,7 @@ obsidianUIMode: preview
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
 
-Tildrak's player was absent, but [[Tildrak Pagrax|Tildrak]] remained with the party and participated as a character.
+Tildrak's player was absent, but Tildrak remained with the party and participated as a character.
 
 # Session Overview
 
@@ -38,7 +38,7 @@ Tildrak's player was absent, but [[Tildrak Pagrax|Tildrak]] remained with the pa
 
 ### The Road to Ravenloft
 
-Still locked inside Strahd's luxurious, driverless carriage, the party raced across Barovia at an unnatural speed. They passed Lake Baratok—and the road toward [[Van Richten's Tower|Rudolph van Richten's tower]], where [[Little Jasper]] was still waiting to be cured—before flying past Vallaki, the nearby Vistani encampments, the Village of Barovia, and finally up the narrow mountain road toward [[Castle Ravenloft]].
+Still locked inside Strahd's luxurious, driverless carriage, the party raced across Barovia at an unnatural speed. They passed Lake Baratok—and the road toward Rudolph van Richten's tower, where Little Jasper was still waiting to be cured—before flying past Vallaki, the nearby Vistani encampments, the Village of Barovia, and finally up the narrow mountain road toward Castle Ravenloft.
 
 Rather than approaching the grand entrance, the carriage circled around the castle and entered a rear service courtyard containing stables, storage buildings, and a servants' entrance. The gate opened by itself, the carriage stopped, and its door unlocked.
 
@@ -52,7 +52,7 @@ Strahd required the party's help because the castle staff had little understandi
 
 Before they could enter the kitchen, Rahadin ordered Cyrus Belview to search them. Cyrus confiscated the party's weapons, spellcasting equipment, alchemist's fire, and anything else larger than a fist, locking everything inside a chest mounted on a small trolley.
 
-[[Nirthar]], however, used his *Mage Hand* and a convincing distraction to keep the Holy Symbol of Ravenkind—the Tear of the Sun—hidden from Cyrus. The party entered Castle Ravenloft largely disarmed, but not entirely without protection.
+Nirthar, however, used his *Mage Hand* and a convincing distraction to keep the Holy Symbol of Ravenkind—the Tear of the Sun—hidden from Cyrus. The party entered Castle Ravenloft largely disarmed, but not entirely without protection.
 
 ### The Baron's Four Hands Plus One
 
@@ -95,13 +95,13 @@ Ireena also shared what she had learned about Castle Ravenloft:
 *   Confiscated equipment is stored near the stables, in a room reachable from the service entrance.
 *   The same area can be reached from the main dining hall through a concealed servants' passage beside a portrait of Strahd's mother.
 *   The catacombs may offer another way into or through the castle, although Ireena has never explored them fully.
-*   She has seen an enormous skull in the catacombs that may be the missing skull of [[Argynvost]].
+*   She has seen an enormous skull in the catacombs that may be the missing skull of Argynvost.
 *   The castle is filled with animated armour, jellies, strange beasts, and possibly even wyrmlings.
 *   Strahd appears able to control the castle itself, making ordinary escape plans dangerously unreliable.
 *   A mistreated accountant named Lief also lives within the castle. Ireena does not truly trust him, but he appears to share some of her misery.
 *   Anastrasya, one of Strahd's consorts, has designed a blood-red wedding dress for Ireena.
 
-The party discussed gathering allies such as Fiona Wachter, [[Rudolph van Richten]], [[Ezmeralda d'Avenir]], and the revenants of Argynvostholt. Strahd intended to invite both allies and enemies from across Barovia, convinced that the wedding would be his magnum opus. That arrogance might provide the party with the army and distraction they needed.
+The party discussed gathering allies such as Fiona Wachter, Rudolph van Richten, Ezmeralda d'Avenir, and the revenants of Argynvostholt. Strahd intended to invite both allies and enemies from across Barovia, convinced that the wedding would be his magnum opus. That arrogance might provide the party with the army and distraction they needed.
 
 ### A Dance Worth Dying For
 
