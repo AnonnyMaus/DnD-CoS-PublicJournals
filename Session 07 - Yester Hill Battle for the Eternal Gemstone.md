@@ -27,6 +27,8 @@ sessionRoster:
 
 ![Session 07 Image](images/session07.png)
 
+# Session 07 - Yester Hill Battle for the Eternal Gemstone <small>· ~4 min read</small>
+
 
 # Roster 
 

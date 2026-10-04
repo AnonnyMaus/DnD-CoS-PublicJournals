@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 14 Image](images/session14.png)
 
+# Session 14 - A Weary Fight <small>· ~3 min read</small>
+
 
 # Roster 
 

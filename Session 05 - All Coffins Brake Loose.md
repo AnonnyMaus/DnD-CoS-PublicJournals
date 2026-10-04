@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 05 Image](images/session05.png)
 
+# Session 05 - All Coffins Brake Loose <small>· ~4 min read</small>
+
 
 # Roster 
 

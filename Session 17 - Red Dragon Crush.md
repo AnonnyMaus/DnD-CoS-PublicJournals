@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 17 Image](images/session17.png)
 
+# Session 17 - Red Dragon Crush <small>· ~9 min read</small>
+
 # Roster
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

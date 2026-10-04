@@ -27,6 +27,8 @@ sessionRoster:
 
 ![Session 02 Image](images/session02.png)
 
+# Session 02 - The Burial <small>· ~4 min read</small>
+
 
 # Roster 
 

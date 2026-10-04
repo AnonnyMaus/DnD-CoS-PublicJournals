@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 09 Image](images/session09.png)
 
+# Session 09 - Thorns & Choices for Vallaki <small>· ~4 min read</small>
+
 
 # Roster 
 

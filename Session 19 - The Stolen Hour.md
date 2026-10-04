@@ -23,6 +23,8 @@ draft: false
 
 ![Session 19 Image](images/session19.png)
 
+# Session 19 - The Stolen Hour <small>· ~7 min read</small>
+
 # Session Overview
 
 ## The Narrative

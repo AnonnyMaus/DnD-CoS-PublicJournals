@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 10 Image](images/session10.png)
 
+# Session 10 - Judgement Day <small>· ~5 min read</small>
+
 
 # Roster 
 

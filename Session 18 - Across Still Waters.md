@@ -23,6 +23,8 @@ draft: false
 
 ![Session 18 Image](images/session18.png)
 
+# Session 18 - Across Still Waters <small>· ~10 min read</small>
+
 # Roster
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

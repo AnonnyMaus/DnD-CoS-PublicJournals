@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 11 Image](images/session11.png)
 
+# Session 11 - Ousted out of Vallaki <small>· ~5 min read</small>
+
 
 # Roster 
 

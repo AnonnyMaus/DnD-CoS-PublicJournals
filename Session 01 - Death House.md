@@ -27,6 +27,8 @@ sessionAbsent:
 
 ![Session 01 Image](images/session01.png)
 
+# Session 01 - Death House <small>· ~3 min read</small>
+
 
 # Roster 
 

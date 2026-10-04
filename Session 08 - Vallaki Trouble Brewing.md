@@ -26,6 +26,8 @@ sessionAbsent:
 
 ![Session 08 Image](images/session08.png)
 
+# Session 08 - Vallaki Trouble Brewing <small>· ~6 min read</small>
+
 
 # Roster 
 

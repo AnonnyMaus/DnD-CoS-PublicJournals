@@ -23,6 +23,8 @@ draft: false
 
 ![Session 20 Image](images/session20.png)
 
+# Session 20 - What Was Falsely Written <small>· ~9 min read</small>
+
 # Roster
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

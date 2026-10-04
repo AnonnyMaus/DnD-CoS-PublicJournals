@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 06 Image](images/session06.png)
 
+# Session 06 - The Hangover <small>· ~5 min read</small>
+
 
 # Roster 
 

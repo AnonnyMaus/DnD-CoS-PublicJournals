@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 13 Image](images/session13.png)
 
+# Session 13 - A Creepy Bride <small>· ~5 min read</small>
+
 
 # Roster 
 

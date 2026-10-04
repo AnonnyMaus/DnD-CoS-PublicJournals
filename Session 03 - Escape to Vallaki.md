@@ -24,6 +24,8 @@ sessionRoster:
 
 ![Session 03 Image](images/session03.png)
 
+# Session 03 - Escape to Vallaki <small>· ~4 min read</small>
+
 
 # Roster 
 

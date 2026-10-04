@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 15 Image](images/session15.png)
 
+# Session 15 - The Sins of the Past <small>· ~8 min read</small>
+
 # Roster 
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

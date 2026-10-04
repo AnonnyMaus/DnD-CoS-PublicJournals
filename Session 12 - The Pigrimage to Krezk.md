@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 12 Image](images/session12.png)
 
+# Session 12 - The Pigrimage to Krezk <small>· ~5 min read</small>
+
 
 # Roster 
 %% Keep track of who turned up. %%

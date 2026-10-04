@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 16 Image](images/session16.png)
 
+# Session 16 - The Sun's Tear <small>· ~6 min read</small>
+
 # Roster 
 
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`

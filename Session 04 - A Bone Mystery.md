@@ -22,6 +22,8 @@ obsidianUIMode: preview
 
 ![Session 04 Image](images/session04.png)
 
+# Session 04 - A Bone Mystery <small>· ~3 min read</small>
+
 
 # Roster 
 
